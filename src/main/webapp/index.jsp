@@ -8,6 +8,6 @@ String version=resource.getString("version");%>
 <html>
 <body>
 <h2>Hello Fellow Students</h2>
-<h2>New Class will start at 9:30am IST on 07 Mar 2021</h2>
+<h2>New Class will start at 9:30am IST on 08 Mar 2021</h2>
 </body>
 </html>
