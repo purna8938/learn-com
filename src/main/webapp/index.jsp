@@ -8,6 +8,6 @@ String version=resource.getString("version");%>
 <html>
 <body>
 <h2>Hello Fellow Students</h2>
-<h2>Ansible Project Compleetd</h2>
+<h2>chef project completed</h2>
 </body>
 </html>
